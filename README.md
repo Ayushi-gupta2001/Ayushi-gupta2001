@@ -1,16 +1,12 @@
 # 💫 About Me:
 👋 Hi, I’m Ayushi!
 
-🚀 Currently working at SOTI as a Full Stack Developer (2.5+ years experience)  
+🚀 Currently working at SOTI as a Full Stack Developer (2.5+ years experience).  
 
-🔄 Actively transitioning into a DevOps Engineer role  
+🔄 Actively transitioning into a DevOps Engineer role. 
 
-🛠️ Building hands-on DevOps projects with real infrastructure setups  
+🛠️ Building hands-on proficiency in Cloud Infrastructure, CI/CD Engineering, Container Technologies, and Automation Frameworks.
 
-☁️ Learning Cloud, CI/CD, Containers & Automation tools  
-
-
-🎯 Goal: Move into a full-time DevOps role  
 
 📬 Reach Me At
 
@@ -44,8 +40,8 @@
 ![EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
 ![IAM](https://img.shields.io/badge/AWS-IAM-DD344C?style=flat&logo=amazonaws&logoColor=white)
 ![S3](https://img.shields.io/badge/AWS-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF4F8B?style=flat&logo=amazon-cloudwatch&logoColor=white)
-![ECR](https://img.shields.io/badge/AWS-ECR-FF9900?style=flat)
-![EKS](https://img.shields.io/badge/AWS-EKS-FF9900?style=flat)
-![ECS](https://img.shields.io/badge/AWS-ECS-FF9900?style=flat)
-![Load Balancer](https://img.shields.io/badge/AWS-LoadBalancer-8C4FFF?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1)
+![NGINX](https://img.shields.io/badge/NGINX-Load_Balancer-009639)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming_Platform-231F20)
+![Google Cloud](https://img.shields.io/badge/Cloud-Google_Cloud-blue)
+
